@@ -9,3 +9,4 @@ url: "http://Vivian.Balakrishnan.Sg"
 markdown: kramdown
 permalink: pretty
 pygments: true
+theme: midnight
