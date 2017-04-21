@@ -405,8 +405,5 @@ a:visited { color: #205caa; }
   .twt_wrap {
   text-align: center;
   }
-  .twt_wrap > iframe {
-  margin: auto;
-  }
 
 }
