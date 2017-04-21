@@ -401,5 +401,12 @@ a:visited { color: #205caa; }
     clear: both;
     width: auto;
     margin: 0 0 15px; }
+  
+  .twt_wrap {
+  text-align: center;
+  }
+  .twt_wrap > iframe {
+  margin: auto;
+  }
 
 }
