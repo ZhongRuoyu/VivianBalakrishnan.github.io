@@ -1,4 +1,4 @@
-### Opening Speech by Dr Vivian Balakrishnan, Minister for Foreign Affairs and Minister-In-Charge of the Smart Nation Initiative at Smart Nation Innovations / Innovfest UnBound at Marina Bay Sands Expo and Convention Centre, 17 May 2016, 10:00am ###
+Opening Speech by Dr Vivian Balakrishnan, Minister for Foreign Affairs and Minister-In-Charge of the Smart Nation Initiative at Smart Nation Innovations / Innovfest UnBound at Marina Bay Sands Expo and Convention Centre, 17 May 2016, 10:00am
 
 Prof Tan Chorh Chuan, President NUS,
 
