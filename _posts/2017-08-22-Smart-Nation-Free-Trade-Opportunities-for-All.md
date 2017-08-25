@@ -1,6 +1,6 @@
 ---
 published: true
-title: Smart Nation, Free Trade and Opportunities for All
+title: A new digital Golden Age
 author: Vivian.Balakrishnan
 layout: post
 permalink: /2017/08/22/SmartNationFreeTradeOpportunities/
