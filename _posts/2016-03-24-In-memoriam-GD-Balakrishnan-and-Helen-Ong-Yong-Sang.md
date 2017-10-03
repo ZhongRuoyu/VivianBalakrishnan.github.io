@@ -161,3 +161,77 @@ Bishop Solomon messaged me.
 Have a wonderful reunion with Mum. Wait for us.
 
 We love you dad and mum.
+
+
+**Obituary for my mother delivered on 17 May 1998 at her funeral**
+
+
+Today would have been my mother's 70th birthday. But, today is also her funeral. She passed away 2 days ago on the 15th of May. That day was also my father's birthday.
+
+In a strange ironic way, this confluence of events is a reflection of her life.
+Suffering and blessings were the two recurrent themes of her life
+
+Childhood
+She never enjoyed the companionship of her father, he passed away during a business trip to China just before she was born, leaving my grandmother a widow with 3 young children.
+Life was difficult.
+Money was always limited
+
+She was malnourished. Lost most of her teeth. Contracted TB.
+Before getting married, she warned my father to be prepared for infertility. She was wrong, and went on to have 5 children in quick succession.
+
+Career
+Education was the only way out.
+Became a teacher. Taught for 40 years
+
+Marriage
+Met my father in 1951 - Bukit Panjang Primary School.
+Brought him to Wesley Church in 1952.
+Courtship in 1954
+Professed her love in 1955, but not possible to marry.
+1956 - if ever she married, she would marry him or no one else
+	My father said he would wait.
+1960 - Married
+
+25th anniversary - 1985 - First time they exchanged vows in church
+	Thanked the Lord
+
+They continued their travels despite the osteoarthritis.
+May 1996 - Alaskan cruise - last trip alone with my father.
+
+Motherhood -
+	Brought up 5 chidren - who were all very different
+	Strict, but not excessively so. Only remember being caned once.
+	Twice - 1967 and 1974, she was left to look after the 5 of us single handedly while my father was overseas pursuing postgraduate education.
+
+She taught us :
+Live within your means
+Don't take things for granted
+Fierce loyalty
+Not make friends easily, but once you qualified,
+Never be a snob. Treated everyone with equal respect - Tears of the maids who worked with her 10, 20, 30 years ago.
+Never extravagant. Unable to spend money on herself, but to hoard it for her children  Gave far more than she ever took.
+
+Attitude to in-laws - non interference but total support
+My wife told me that she has been the model mother-in-law for her.
+She would never criticise, but she would be available outside our room door.
+Whenever we wanted to go on holiday, she would babysit. In 1995, she came up to the UK just to babysit, so that Joy and I could go to America.
+
+Grandchildren - right to spoil
+
+Illness
+We were devastated by the discovery. She settled all her affairs. She was not afraid of death itself. She often told us that she had fulfilled all her duties. Her main fear was the impending separation from us. She said she would miss us.
+
+She kept asking why her she had to suffer. I could not give a satisfactory answer. She is past suffering now. But I am sure that God will square accounts with her in Heaven.
+
+We were all by her bedside as she passed on. And my son Mark, keeps reminding me that Ma-Ma is not in there, but in Heaven.
+
+I will always remember :
+Standing at the doorway waving goodbye
+Nagging me to have regular meals
+Scolding me because my hands were cold
+Forcing me to eat fruits - peeling oranges, skinning apples, deseeding grapes
+Spared no effort for her children's welfare
+
+Mummy, our last promise to you is that we will look after Daddy.
+Mummy, we are proud of you.
+We love you, forever.
