@@ -8,5 +8,6 @@ url: "http://Vivian.Balakrishnan.Sg"
 # Build settings
 markdown: kramdown
 permalink: pretty
-pygments: true
+# pygments: true
+highlighter: rouge
 theme: jekyll-theme-midnight
