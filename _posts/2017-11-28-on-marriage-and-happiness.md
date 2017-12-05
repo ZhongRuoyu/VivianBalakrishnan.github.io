@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Your Website Title</title> 
+  <title></title> 
 </head>
 <body>
 
@@ -20,7 +20,7 @@
       <blockquote cite="https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/10154830046376207/">
         <a href="https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/10154830046376207/">How to Share With Just Friends</a>
         <p>How to share with just friends.</p>
-        Posted by <a href="https://www.facebook.com/vivian.balakrishnan.sg/">Vivian Balakrishnan</a> on Friday, December 5, 2014
+        Posted by <a href="https://www.facebook.com/vivian.balakrishnan.sg/">Vivian Balakrishnan</a>
       </blockquote>
     </div>
   </div>
