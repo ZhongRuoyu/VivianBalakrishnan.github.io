@@ -15,7 +15,10 @@
   }(document, 'script', 'facebook-jssdk'));</script>
 
   <!-- Your embedded video player code -->
-  <div class="fb-video" data-href="https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/10154830046376207/" data-width="500" data-show-text="true">
+  <div class="fb-video" data-href="https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/10154830046376207/" 
+    data-width="500" 
+    data-autoplay="true"
+    data-show-text="true">
     
   </div>
 
