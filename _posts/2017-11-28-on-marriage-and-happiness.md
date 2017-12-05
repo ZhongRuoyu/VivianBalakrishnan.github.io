@@ -16,13 +16,7 @@
 
   <!-- Your embedded video player code -->
   <div class="fb-video" data-href="https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/10154830046376207/" data-width="500" data-show-text="true">
-    <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/10154830046376207/">
-        <a href="https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/10154830046376207/">How to Share With Just Friends</a>
-        <p>How to share with just friends.</p>
-        Posted by <a href="https://www.facebook.com/vivian.balakrishnan.sg/">Vivian Balakrishnan</a>
-      </blockquote>
-    </div>
+    
   </div>
 
 </body>
