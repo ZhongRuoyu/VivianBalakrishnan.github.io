@@ -4,16 +4,13 @@ author: Vivian.Balakrishnan
 layout: page
 ---
 
-/****************************************************************
-*	Sudoku Solver
+
 *
-*	Translated into Javascript from original code in C++
+*	Sudoku Solver translated into Javascript from original code in C++
 *		by Lee Hsien Loong
 *	The MIT License (MIT)
 *	Copyright (c) 2015 Vivian Balakrishnan
 *
-*
-****************************************************************/
 
 Yet another sudoku solver
 
