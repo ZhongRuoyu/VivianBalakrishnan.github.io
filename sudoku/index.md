@@ -5,17 +5,16 @@ layout: page
 ---
 
 
-*
-*	Sudoku Solver translated into Javascript from original code in C++
+
+*	Sudoku Solver translated into Javascript from [original code in C++](https://drive.google.com/drive/folders/0B2G2LjIu7WbdfjhaUmVzc1lCR2hUdk5fZllCOHdtbFItbU5qYzdqZGVxdmlnRkJyYVQ4VU0)
 *		by Lee Hsien Loong
 *	The MIT License (MIT)
 *	Copyright (c) 2015 Vivian Balakrishnan
-*
 
-Yet another sudoku solver
+
 
 <style>
-    p { text-align: center; }
+    p { text-align: left; }
     table { border: 2px solid #000; border-collapse: collapse;
             margin-left: auto; margin-right: auto; }
     input { border: 2px solid #ccc; }
@@ -63,7 +62,7 @@ Yet another sudoku solver
 
 
     function draw() {
-    	document.write('<table>');
+    	document.write('<table style="float:center">');
     	for (var row=0; row<9; row++) {
     		document.write('<tr>');
     		for (var col=0; col<9; col++) {
@@ -150,14 +149,10 @@ Yet another sudoku solver
 			alert("Cannot find solution");     
 	}             
 
+draw();
+
 </script>
 
-<table>
-  <script type="text/javascript">
-    draw();
-
-  </script>
-</table>
 
 <p><button type="button" onclick="solve();">Solve!</button></p>
 <p><button type="button" onclick="window.location.reload(true)">Clear</button></p>
