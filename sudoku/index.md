@@ -66,7 +66,7 @@ layout: page
     	for (var row=0; row<9; row++) {
     		document.write('<tr>');
     		for (var col=0; col<9; col++) {
-				document.write('<td><input type="text" size="1" maxlength="1" style="font-size:20px" onkeyup="nextfield(this)"/></td>');
+				document.write('<td><input type="text" size="2" maxlength="1" style="font-size:20px" onkeyup="nextfield(this)"/></td>');
 			}
 			document.write('</tr>');
     	}
