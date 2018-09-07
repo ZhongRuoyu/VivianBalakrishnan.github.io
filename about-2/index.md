@@ -42,7 +42,7 @@ Energy Conservation Act and
 Transboundary Haze Pollution Act.
 
 <p>
-He has also moved amendments to the:
+He has also moved amendments to the:</p>
 Children Development Co-Savings Act,  
 Children and Young Persons Act,  
 Women’s Charter,  
@@ -56,7 +56,7 @@ Public Utilities Act,
 Sewerage and Drainage Act,  
 Environmental Public Health Act,  
 Radiation Protection Act.  
-</p>
+
 
 At the Ministry for Environment and Water Resources (MEWR), Dr Balakrishnan oversaw the policy to build new hawker centres, the establishment of the Centre for Climate Research Singapore and the Department of Public Cleanliness, the implementation of a mandatory licensing scheme for the cleaning industry, and the adoption of higher air quality targets based on World Health Organisation’s Air Quality Guidelines as well as a revised air quality reporting index which incorporates PM2.5.
 
