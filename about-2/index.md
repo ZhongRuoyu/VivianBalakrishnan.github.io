@@ -43,7 +43,7 @@ Transboundary Haze Pollution Act.
 
 <p>
 He has also moved amendments to the:</p>
-Children Development Co-Savings Act,  
+Children Development Co-Savings Act,
 Children and Young Persons Act,  
 Women’s Charter,  
 Charities Act,  
@@ -57,13 +57,26 @@ Sewerage and Drainage Act,
 Environmental Public Health Act,  
 Radiation Protection Act.  
 
+<p>
+He was one of the ministerial facilitators for several rounds of negotiations from 2011 to 2015 that led to the Paris Agreement on Climate Change at the United Nations
+</p>
+
+<p>
+Concluded the negotiations for the Comprehensive Strategic Partnership between Australia and Singapore in 2016
+</p>
+
+<p>
+Initiated negotiations for the New Zealand - Singapore Enhanced Partnership in 2017
+</p>
 
 <p>At the Ministry for Environment and Water Resources (MEWR), Dr Balakrishnan oversaw the policy to build new hawker centres, the establishment of the Centre for Climate Research Singapore and the Department of Public Cleanliness, the implementation of a mandatory licensing scheme for the cleaning industry, and the adoption of higher air quality targets based on World Health Organisation’s Air Quality Guidelines as well as a revised air quality reporting index which incorporates PM2.5.</p>
 
 <p>Whilst at the Ministry for Community Development, Youth and Sports (MCYS), Dr Balakrishnan oversaw the establishment of the Comcare Endowment Fund; refinement of the Comcare Social Assistance framework; the Enabling Masterplan for persons with disability; the establishment of the Central Youth Guidance Office; the expansion of Family Service Centres and the accreditation of social workers. He has also led the upgrading of the Childcare sector; establishment of National Family Council, Charities Council, Community Foundation of Singapore, National Steering Committee on Racial & Religious Harmony, the National Integration Council, the Council for Third Age, and the National Council against Problem Gambling. He supervised the successful hosting of the inaugural Youth Olympic Games; and the redevelopment of the National Stadium.</p>
 
 <p>
-Whilst at the Ministry for Trade and Industry (MTI), he oversaw tourism and coordinated the Project team that facilitated the development of the two Integrated Resorts. At the Ministry for Information, Communications and the Arts (MICA), he was deeply involved with the design and rollout of the Next Generation National Broadband Network.
+Whilst at the Ministry for Trade and Industry (MTI), he oversaw tourism and coordinated the Project team that facilitated the development of the two Integrated Resorts. </p>
+
+<p>At the Ministry for Information, Communications and the Arts (MICA), he was deeply involved with the design and rollout of the Next Generation National Broadband Network.
 </p>
 
 <p> </p>
