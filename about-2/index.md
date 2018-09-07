@@ -17,13 +17,13 @@ layout: page
 
 **Medical Career**
 
-<p>Between 1993 and 1995, Dr Balakrishnan underwent further training as a Specialist Senior Registrar at Moorfields Eye Hospital in London, where he sub-specialised in Paediatric Ophthalmology. He was appointed Associate Professor in the National University of Singapore, and was appointed Deputy Director of Singapore National Eye Centre (SNEC) in late 1997. In 1999, at age 38, he became the Medical Director of SNEC. Shortly after, he was appointed Chief Executive Officer of the Singapore General Hospital in 2000.</p>
+<p>Between 1993 and 1995, he underwent further training as a Specialist Senior Registrar at Moorfields Eye Hospital in London, where he sub-specialised in Paediatric Ophthalmology. He was appointed Associate Professor in the National University of Singapore, and was appointed Deputy Director of Singapore National Eye Centre (SNEC) in late 1997. In 1999, at age 38, he became the Medical Director of SNEC. Shortly after, he was appointed Chief Executive Officer of the Singapore General Hospital in 2000.</p>
 
-<p>Concurrently, he was also the Commanding Officer of the 2nd Combat Support Hospital of the Singapore Armed Forces from November 1999 to January 2002.</p>
+<p>He was also the Commanding Officer of the 2nd Combat Support Hospital of the Singapore Armed Forces from November 1999 to January 2002.</p>
 
 <p>From 1999 to 2001, he chaired the Specialist Training Committee, which was responsible for the accreditation and training programme for all ophthalmology trainees. He also led several clinical research trials to control the progression of myopia in children.</p>
 
-<p>Dr Balakrishnan was active in diverse community activities. He was the Honorary Treasurer of the Singapore Medical Association, member of the National Library Board, member of the Singapore Broadcasting Authority Programmes Advisory Committee and National Volunteer Centre. He served as Co-chairman of a MND Concept Plan 2001Focus Group. He was also a well-known debater from the 80s, and host of the television series &#8220;Health Matters&#8221; in the 90s.</p>
+<p>He was active in diverse community activities. He was the Honorary Treasurer of the Singapore Medical Association, member of the National Library Board, member of the Singapore Broadcasting Authority Programmes Advisory Committee and National Volunteer Centre. He served as Co-chairman of a MND Concept Plan 2001Focus Group. He was also a well-known debater from the 80s, and host of the television series 'Health Matters' in the 90s.</p>
 
 <p> </p>
 
