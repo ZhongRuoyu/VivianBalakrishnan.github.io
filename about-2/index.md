@@ -1,5 +1,5 @@
 ---
-title: About
+title: CV
 author: Vivian.Balakrishnan
 layout: page
 ---
@@ -58,15 +58,15 @@ Environmental Public Health Act,
 Radiation Protection Act.  
 
 <p>
-He was one of the ministerial facilitators for several rounds of negotiations from 2011 to 2015 that led to the Paris Agreement on Climate Change at the United Nations
+He was one of the ministerial facilitators for several rounds of negotiations from 2011 to 2015 that led to the Paris Agreement on Climate Change at the United Nations.
 </p>
 
 <p>
-Concluded the negotiations for the Comprehensive Strategic Partnership between Australia and Singapore in 2016
+He led the team that concluded the negotiations for the Comprehensive Strategic Partnership between Australia and Singapore in 2016
 </p>
 
 <p>
-Initiated negotiations for the New Zealand - Singapore Enhanced Partnership in 2017
+He initiated negotiations for the New Zealand - Singapore Enhanced Partnership in 2017. This is still in progress.
 </p>
 
 <p>At the Ministry for Environment and Water Resources (MEWR), Dr Balakrishnan oversaw the policy to build new hawker centres, the establishment of the Centre for Climate Research Singapore and the Department of Public Cleanliness, the implementation of a mandatory licensing scheme for the cleaning industry, and the adoption of higher air quality targets based on World Health Organisation’s Air Quality Guidelines as well as a revised air quality reporting index which incorporates PM2.5.</p>
