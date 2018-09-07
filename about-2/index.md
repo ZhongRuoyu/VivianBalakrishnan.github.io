@@ -32,34 +32,37 @@ layout: page
 <p>During the early years of his political career, he served as Chairman of the 'Remaking Singapore' committee and Chairman of the National Youth Council. He also served two terms as Chairman of the Young PAP.</p>
 
 <p>
-In Parliament, he has initiated several pieces of new legislation. These include the:
+In Parliament, he has initiated several pieces of new legislation. These include the:</p>
 
-Competition Act
-Community Care Endowment Fund Act,
-Mental Capacity Act,
-International Child Abduction Act,
-Energy Conservation Act and
+Competition Act  
+Community Care Endowment Fund Act,  
+Mental Capacity Act,  
+International Child Abduction Act,  
+Energy Conservation Act and  
 Transboundary Haze Pollution Act.
 
+<p>
 He has also moved amendments to the:
-Children Development Co-Savings Act,
-Children and Young Persons Act,
-Women’s Charter,
-Charities Act,
-Hindu Endowments Act,
-Postal Services Act,
-Animals and Birds Act,
-Agri-Food and Veterinary Authority Act,
-Sale of Food Act,
-Public Utilities Act,
-Sewerage and Drainage Act,
-Environmental Public Health Act,
-Radiation Protection Act.
+Children Development Co-Savings Act,  
+Children and Young Persons Act,  
+Women’s Charter,  
+Charities Act,  
+Hindu Endowments Act,  
+Postal Services Act,  
+Animals and Birds Act,  
+Agri-Food and Veterinary Authority Act,  
+Sale of Food Act,  
+Public Utilities Act,  
+Sewerage and Drainage Act,  
+Environmental Public Health Act,  
+Radiation Protection Act.  
+</p>
 
 At the Ministry for Environment and Water Resources (MEWR), Dr Balakrishnan oversaw the policy to build new hawker centres, the establishment of the Centre for Climate Research Singapore and the Department of Public Cleanliness, the implementation of a mandatory licensing scheme for the cleaning industry, and the adoption of higher air quality targets based on World Health Organisation’s Air Quality Guidelines as well as a revised air quality reporting index which incorporates PM2.5.
 
 Whilst at the Ministry for Community Development, Youth and Sports (MCYS), Dr Balakrishnan oversaw the establishment of the Comcare Endowment Fund; refinement of the Comcare Social Assistance framework; the Enabling Masterplan for persons with disability; the establishment of the Central Youth Guidance Office; the expansion of Family Service Centres and the accreditation of social workers. He has also led the upgrading of the Childcare sector; establishment of National Family Council, Charities Council, Community Foundation of Singapore, National Steering Committee on Racial & Religious Harmony, the National Integration Council, the Council for Third Age, and the National Council against Problem Gambling. He supervised the successful hosting of the inaugural Youth Olympic Games; and the redevelopment of the National Stadium.
 
+<p>
 Whilst at the Ministry for Trade and Industry (MTI), he oversaw tourism and coordinated the Project team that facilitated the development of the two Integrated Resorts. At the Ministry for Information, Communications and the Arts (MICA), he was deeply involved with the design and rollout of the Next Generation National Broadband Network.
 </p>
 
