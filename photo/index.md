@@ -2,6 +2,7 @@
 title: Photo
 author: Vivian.Balakrishnan
 layout: page
+order: 45
 ---
 <img src="http://vivian.balakrishnan.sg/wp-content/uploads/2017/11/vivianbala2.jpg" style="width: 400px;" alt="Vivian Balakrishnan" />
 

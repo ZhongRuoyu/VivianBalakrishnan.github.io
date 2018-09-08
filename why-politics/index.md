@@ -2,6 +2,7 @@
 title: Why politics?
 author: admin
 layout: page
+order: 20
 ---
 <p>In October 2001, I was introduced as a candidate for the People&#8217;s Action Party in the November 2001 election. This was the statement I made to the media at that time. From time to time, I re-read it and check that I have stayed true to the cause.</p>
 

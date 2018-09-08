@@ -2,6 +2,7 @@
 title: Sudoku
 author: Vivian.Balakrishnan
 layout: page
+order: 50
 ---
 
 
