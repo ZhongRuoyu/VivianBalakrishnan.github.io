@@ -8,7 +8,7 @@ order: 10
 <p>He has been a Member of Parliament since 2001. He has previously served as the Minister for the Environment and Water Resources; Minister for Community Development, Youth and Sports; 2nd Minister for Trade and Industry; Minister responsible for Entrepreneurship; 2nd Minister for Information Communications and the Arts; and Minister of State for National Development.</p>
 
 
-<p>Before entering politics, Dr Balakrishnan was an Ophthalmologist and the CEO of Singapore General Hospital.</p>
+<p>Dr Balakrishnan was an Ophthalmologist and the CEO of Singapore General Hospital.</p>
 
 **Education**
 
