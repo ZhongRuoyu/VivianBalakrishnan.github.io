@@ -7,8 +7,6 @@ date: "2019-01-28"
 ### Speech and Q&A at the Institute of Policy Studies Singapore Perspectives 2019 Conference
 28 January 2019
 
-### A fractured world order, fractious domestic politics and the digital revolution
-
 Thank you, Janadas, for that slightly unconventional introduction.  Let me first say that today you’ve had a history lesson from Professor Wang Gungwu, a politics lesson from George Yeo, another session on economics from Chng Kai Fong, and then a session from Marty Natalegawa and Bilahari Kausikan on regional diplomacy.  I’m going to try – and I say try because you’re all very long-suffering and have been here for many hours – but I’m going to try to synthesise all these elements into a coherent concept. 
 
  
