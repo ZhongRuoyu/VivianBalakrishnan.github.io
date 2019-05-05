@@ -1,3 +1,9 @@
+---
+layout: post
+title: "A fractured world order, fractious domestic politics and the digital revolution"
+date: "2019-01-28"
+---
+
 ### Speech and Q&A at the Institute of Policy Studies Singapore Perspectives 2019 Conference
 28 January 2019
 
