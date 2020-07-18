@@ -31,28 +31,29 @@ order: 10
 <p>
 In Parliament, he has initiated several pieces of new legislation. These include the:</p>
 
-Competition Act  
-Community Care Endowment Fund Act,  
-Mental Capacity Act,  
-International Child Abduction Act,  
-Energy Conservation Act and  
-Transboundary Haze Pollution Act.
+* Competition Act,  
+* Community Care Endowment Fund Act,  
+* Mental Capacity Act,  
+* International Child Abduction Act,  
+* Energy Conservation Act, and  
+* Transboundary Haze Pollution Act.
 
 <p>
 He has also moved amendments to the:</p>
-Children Development Co-Savings Act,
-Children and Young Persons Act,  
-Women’s Charter,  
-Charities Act,  
-Hindu Endowments Act,  
-Postal Services Act,  
-Animals and Birds Act,  
-Agri-Food and Veterinary Authority Act,  
-Sale of Food Act,  
-Public Utilities Act,  
-Sewerage and Drainage Act,  
-Environmental Public Health Act,  
-Radiation Protection Act.  
+
+* Children Development Co-Savings Act,  
+* Children and Young Persons Act,  
+* Women’s Charter,  
+* Charities Act,  
+* Hindu Endowments Act,  
+* Postal Services Act,  
+* Animals and Birds Act,  
+* Agri-Food and Veterinary Authority Act,  
+* Sale of Food Act,  
+* Public Utilities Act,  
+* Sewerage and Drainage Act,  
+* Environmental Public Health Act, and  
+* Radiation Protection Act.  
 
 <p>
 He was one of the ministerial facilitators for several rounds of negotiations from 2011 to 2015 that led to the Paris Agreement on Climate Change at the United Nations.
