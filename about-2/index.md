@@ -12,7 +12,7 @@ order: 10
 
 **Education**
 
-<p>His early education was at the Anglo-Chinese School and National Junior College. He was awarded the President's Scholarship in 1980 to study Medicine at the National University of Singapore.  He was elected President of the NUS Students Union from 1981 to 1983 and Chairman from 1984 to 1985. He pursued post-graduate specialist training in Ophthalmology and was admitted as a Fellow of the Royal College of Surgeons of Edinburgh in 1991.</p>
+<p>His early education was at the Anglo-Chinese School and National Junior College. He was awarded the President's Scholarship in 1980 to study Medicine at the National University of Singapore. He was elected President of the NUS Students Union from 1981 to 1983 and Chairman from 1984 to 1985. He pursued post-graduate specialist training in Ophthalmology and was admitted as a Fellow of the Royal College of Surgeons of Edinburgh in 1991.</p>
 
 <p> </p>
 
@@ -88,6 +88,6 @@ Whilst at the Ministry for Trade and Industry (MTI), he oversaw tourism and coor
 
 <p>His parents, the late Mr GD Balakrishnan and the late Mdm Ong Yong Sang, met whilst both were teachers at Bukit Panjang Primary School in the 50s and 60s.</p>
 
-<p>He has been married for 30 years to his wife, Joy. He enjoys spending precious time with his daughter and three sons. To keep fit, he runs and cycles.</p>
+<p>He has been married for 30 years to his wife, Joy. He enjoys spending precious time with his daughter and three sons. To keep fit, he runs and cycles.</p>
 
-<p>He is also a computer enthusiast and an avid reader. He maintains this blog, a twitter and facebook account to keep in touch with his friends and the residents of Holland-Bukit Timah GRC.</p>
+<p>He is also a computer enthusiast and an avid reader. He maintains this blog, a twitter and facebook account to keep in touch with his friends and the residents of Holland-Bukit Timah GRC.</p>
